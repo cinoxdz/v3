@@ -54,8 +54,8 @@ module.exports = {
       .setColor('#01fe66')
       .setAuthor({
           name: 'Audio Filters ',
-          iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157534645311766558/2353-arrowrightglow.gif?ex=6518f5a5&is=6517a425&hm=ce55696f7ed85e2f7a97a3505eb39016fa9cd0c50be043efdf0cce06d7126b4c&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://media.discordapp.net/attachments/1183145662326526046/1183149629303427194/6095068ca3e711e9.png?ex=658748f5&is=6574d3f5&hm=84929c96a866ed158c57045fb8ba4194dd51a83dc13ce8814bb46c244bd6f2d5&',
+          url: 'https://discord.gg/ynk1'
         })
       .setDescription('** Explore the Beat, Choose Your Sound Magic Below!**')
   
