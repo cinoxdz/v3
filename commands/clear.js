@@ -1,18 +1,3 @@
-/*
-
-  ██████╗░████████╗██╗░░██╗           
-  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
-  ██████╔╝░░░██║░░░░╚███╔╝░          
-  ██╔══██╗░░░██║░░░░██╔██╗░          
-  ██║░░██║░░░██║░░░██╔╝╚██╗          
-  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-
-   
-   # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
-   ## FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
-   ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
-*/
 const db = require("../mongoDB");
 const { EmbedBuilder } = require('discord.js');
 
@@ -40,8 +25,8 @@ module.exports = {
         .setColor('#3498db')
         .setAuthor({
           name: 'Cleared List',
-          iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157314241393598585/4618-no-slides.png?ex=65182861&is=6516d6e1&hm=dac8fed5a18e1574485e833d4c017591c50f59d161e1bde7fed5f6a92543f951&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://media.discordapp.net/attachments/1183145662326526046/1183149629303427194/6095068ca3e711e9.png?ex=658748f5&is=6574d3f5&hm=84929c96a866ed158c57045fb8ba4194dd51a83dc13ce8814bb46c244bd6f2d5&',
+          url: 'https://discord.gg/ynk1'
         })
         .setDescription('**Queue cleared! Be Ready for a new musical journey.**')
        
@@ -52,19 +37,3 @@ module.exports = {
     }
   },
 };
-
-/*
-
-  ██████╗░████████╗██╗░░██╗           
-  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
-  ██████╔╝░░░██║░░░░╚███╔╝░          
-  ██╔══██╗░░░██║░░░░██╔██╗░          
-  ██║░░██║░░░██║░░░██╔╝╚██╗          
-  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-
-   
-   # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
-   ## FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
-   ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
-*/
