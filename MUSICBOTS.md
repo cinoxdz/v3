@@ -1,5 +1,5 @@
 
-# Music Bot RTX GAMINGG
+# Music Bot CINOX GAMINGG
 
 ## Overview
 
