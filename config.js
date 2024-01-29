@@ -1,13 +1,13 @@
 module.exports = {
   ownerID: ["1089552971383189554", ""],
   botInvite: "",
-  supportServer: "",
+  supportServer: "1093918057908404307",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
   status: 'YNK COMMUNITY',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
-  errorLog: "",
+  errorLog: "1147087673446633503",
 
 
   sponsor: {
